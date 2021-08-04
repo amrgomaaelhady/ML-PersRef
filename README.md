@@ -15,7 +15,7 @@ along with their locations in order to encode the message. We empirically show t
 ## Enviroment ##
 - To set it up: 
 ```javascript
-conda create --name <env_name> --file requirements.txt
+conda create --name MLpersref --file requirements.txt
 ```
 - - -
 
