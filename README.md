@@ -9,14 +9,14 @@
 
 ## Enviroment ##
 - To set it up: 
-```javascript
+```
 conda create --name MLpersref --file requirements.txt
 ```
 - - -
 ## Citation ##
 
 - If you find this code helpful, please cite our paper:
-```javascript
+```
 @inproceedings{10.1145/3382507.3418817,
 author = {Gomaa, Amr and Reyes, Guillermo and Alles, Alexandra and Rupp, Lydia and Feld, Michael},
 title = {Studying Person-Specific Pointing and Gaze Behavior for Multimodal Referencing of Outside Objects from a Moving Vehicle},
@@ -36,5 +36,6 @@ series = {ICMI '20}
 ```
 - - -
 
+#### Code documentation coming soon ####
 
 
