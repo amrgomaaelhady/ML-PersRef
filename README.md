@@ -15,8 +15,26 @@ conda create --name MLpersref --file requirements.txt
 - - -
 ## Citation ##
 
-- If you find this code helpful, please cite our paper:
+- If you find this code helpful, please cite our papers:
 ```
+
+@inproceedings{10.1145/3462244.3479910,
+author = {Gomaa, Amr and Reyes, Guillermo and Feld, Michael},
+title = {ML-PersRef: A Machine Learning-based Personalized Multimodal Fusion Approach for Referencing Outside Objects From a Moving Vehicle},
+year = {2021},
+isbn = {9781450384810},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3462244.3479910},
+doi = {10.1145/3462244.3479910},
+booktitle = {Proceedings of the 2021 International Conference on Multimodal Interaction},
+numpages = {9},
+keywords = {multimodal fusion, pointing, eye gaze, object referencing, personalized models, machine learning, deep learning},
+location = {Montreal, Canada},
+series = {ICMI '21}
+}
+
+
 @inproceedings{10.1145/3382507.3418817,
 author = {Gomaa, Amr and Reyes, Guillermo and Alles, Alexandra and Rupp, Lydia and Feld, Michael},
 title = {Studying Person-Specific Pointing and Gaze Behavior for Multimodal Referencing of Outside Objects from a Moving Vehicle},
