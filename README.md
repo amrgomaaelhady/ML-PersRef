@@ -1,5 +1,5 @@
 # ML-PersRef #
-- This repository has code for both of the following papers: 
+- This repository has python code (in jupyter notebooks) for both of the following papers: 
   - [ML-PersRef: A Machine Learning-based Personalized Multimodal Fusion Approach for Referencing Outside Objects From a Moving Vehicle](https://doi.org/10.1145/3462244.3479910) at ICMI 2021
   - [Studying Person-Specific Pointing and Gaze Behavior for Multimodal Referencing of Outside Objects from a Moving Vehicle](https://dl.acm.org/doi/10.1145/3382507.3418817) at ICMI 2020
 
@@ -7,8 +7,8 @@
 
 - - -
 
-## Enviroment ##
-- To set it up: 
+## Conda Enviroment ##
+- To set it up in conda: 
 ```
 conda create --name MLpersref --file requirements.txt
 ```
